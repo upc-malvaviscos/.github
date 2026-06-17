@@ -1,2 +1,1 @@
-# .github
-Equipo 1
+# Equipo 1
