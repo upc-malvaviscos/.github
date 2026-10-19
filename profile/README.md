@@ -1,5 +1,12 @@
 # Equipo 1
 
+## Integrantes
+
+* Anyul Rivas	
+* Renato Luzuriaga	
+* Martí Fabregat Pous	
+* Santiago Oliver Surinyach
+
 ## Proyectos
 
 * [Despliegue de infraestructura](https://github.com/upc-malvaviscos/Despliegue-de-infraestructura-TopBooks)
