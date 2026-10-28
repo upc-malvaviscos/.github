@@ -5,7 +5,7 @@
 * Anyul Rivas	
 * Renato Luzuriaga	
 * Martí Fabregat Pous	
-* Santiago Oliver Surinyach
+* Santiago Oliver Suriñach
 
 ## Proyectos
 
